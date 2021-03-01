@@ -1,2 +1,4 @@
 data/finished_data.csv.gz
 .DS_Store
+.ipynb_checkpoints
+data/.DS_Store
